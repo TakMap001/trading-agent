@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+*.log
+*.dll
+*.exe
+*.png
+
+data/
+models/
+Lib/
+
